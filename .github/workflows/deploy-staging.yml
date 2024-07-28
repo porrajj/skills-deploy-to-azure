@@ -1,5 +1,5 @@
 # JJP 03_Build and deploy applications to Azure by using GitHub Actions.docx
-# JJP - page 80
+# JJP - pages 80, 92 and 148.
 name: Deploy to staging
 
 on:
