@@ -1,3 +1,4 @@
+# JJP added a comment line to enable Commit changes...
 name: Stage the app
 on:
   pull_request:
