@@ -1,3 +1,6 @@
+# JJP Updated
+# 03_Build and deploy applications to Azure by using GitHub Actions
+# page 126
 name: Configure Azure environment
 
 on:
